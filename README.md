@@ -1,2 +1,2 @@
 # Idea-Servers
-Python script for grabbing license servers from web
+Python script for grabbing idea license servers from web
